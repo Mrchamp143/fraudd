@@ -1,0 +1,6 @@
+Transaction_ID,Amount,Device,Location,Fraudulent
+T1,1200,Device_1,NY,0
+T2,5000,Device_2,CA,1
+T3,200,Device_3,TX,0
+T4,3000,Device_4,FL,1
+T5,450,Device_5,IL,0

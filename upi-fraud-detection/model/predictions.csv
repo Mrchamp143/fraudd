@@ -1,0 +1,4 @@
+Transaction_ID,Amount,Device,Location,Fraudulent_Prediction
+T101,1500,0,3,0
+T102,3500,1,0,1
+T103,100,4,4,0

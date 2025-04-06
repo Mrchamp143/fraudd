@@ -1,0 +1,4 @@
+Transaction_ID,Amount,Device,Location
+T101,1500,Device_1,NY
+T102,3500,Device_2,CA
+T103,100,Device_5,TX
